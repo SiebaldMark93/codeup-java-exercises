@@ -19,7 +19,7 @@ public class Bob {
             System.out.println("Fine! Bet that way!");
 
         } else {
-
+            System.out.println("Whatever");
         }
 
         //ends with exclamation mark
