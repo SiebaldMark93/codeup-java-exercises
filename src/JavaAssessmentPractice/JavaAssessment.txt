@@ -19,8 +19,9 @@
 9. Write an instance method in PetDog  called isTrained that returns the boolean value of the trained property. //Line 5-7
 
 10. Create an interface named Companion. The Companion interface should specify an instance method named snuggle that has no arguments and returns a String. Change your PetDog class so it implements the Companion interface. The implementation of the snuggle method on the PetDog class should return "name wants to snuggle", where name is the inherited instance property.
+//Line 5, Line 1 PetDog class, Line 16-19 PetDog class
 
-11. Create a PetDogTest class, instantiate a PetDog, and verify that the snuggle method works correctly.
+11. Create a PetDogTest class, instantiate a PetDog, and verify that the snuggle method works correctly.  //Line 3-7
 
 12. In your Practice class, create a static method named multiplyAll. It should accept an integer and an ArrayList of integers. It should take the ArrayList argument and multiply all its elements by the value of the integer argument.
 
