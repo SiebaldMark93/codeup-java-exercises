@@ -16,5 +16,6 @@ public class Practice {
 
     public static void main(String[] args) {
         System.out.println(subtractTen(20));
+        System.out.println(average(new int[] {1, 5, 10}));
     }
 }
